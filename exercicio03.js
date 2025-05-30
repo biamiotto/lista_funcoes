@@ -19,4 +19,4 @@ function segundoMaior (array) {
 
 }
 
-segundoMaior([100, 70, 150]);
+segundoMaior([100, 60, 150]);
