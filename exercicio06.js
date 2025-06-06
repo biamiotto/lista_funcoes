@@ -12,5 +12,5 @@ function ehPalindromo (palavra) {
     }
 }
 
-console.log(ehPalindromo("ovo"));
+console.log(ehPalindromo("arara"));
 console.log(ehPalindromo("beatriz"));
