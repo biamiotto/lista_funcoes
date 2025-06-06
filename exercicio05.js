@@ -12,3 +12,4 @@ function somaImpares (arr) {
 }
 
 console.log(somaImpares([22, 31, 5, 4]));
+console.log(somaImpares([3, 7, 1, 2]));
