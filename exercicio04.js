@@ -8,7 +8,7 @@ function contaPalavras (frase) {
         }
      }
 
-     return contador;
+    return contador;
 }
 
 console.log(contaPalavras("A miotto é muito diva linda"));
