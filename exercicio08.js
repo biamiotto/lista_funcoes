@@ -10,4 +10,4 @@ function filtrarMaioresQue (arr, n) {
     return resultado;
 }
 
-console.log(filtrarMaioresQue([100, 500, 70, 150, 200], 150));
+console.log(filtrarMaioresQue([100, 500, 80, 150, 200], 150));
